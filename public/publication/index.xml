@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Anjali Verma</title>
+    <link>https://example.com/publication/</link>
+      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Publications</title>
+      <link>https://example.com/publication/</link>
+    </image>
+    
+    <item>
+      <title>Magnetic and Electronic Properties of New Precious Metal Based Normal Spinel&#39;s: LiRhRu1-xIrxO4, LiFeIr1-xRuxO4, and LiCoIr1-xRuxO4</title>
+      <link>https://example.com/publication/preprint/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/preprint/</guid>
+      <description>&lt;h2 id=&#34;research-in-progress&#34;&gt;Research in Progress&lt;/h2&gt;
+&lt;p&gt;This research focuses on the synthesis, characterization, and property analysis of new precious metal-based normal spinels. We are currently investigating the following compositions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LiRhRu1-xIrxO4&lt;/li&gt;
+&lt;li&gt;LiFeIr1-xRuxO4&lt;/li&gt;
+&lt;li&gt;LiCoIr1-xRuxO4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;research-objectives&#34;&gt;Research Objectives:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Synthesize phase-pure samples of the target compositions&lt;/li&gt;
+&lt;li&gt;Characterize the crystal structure and cation distribution&lt;/li&gt;
+&lt;li&gt;Measure and analyze magnetic properties as a function of composition&lt;/li&gt;
+&lt;li&gt;Investigate electronic structure and transport properties&lt;/li&gt;
+&lt;li&gt;Establish structure-property relationships and composition-dependent trends&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;potential-applications&#34;&gt;Potential Applications:&lt;/h3&gt;
+&lt;p&gt;These materials show promise for applications in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced electronic devices&lt;/li&gt;
+&lt;li&gt;Energy storage systems&lt;/li&gt;
+&lt;li&gt;Catalysis&lt;/li&gt;
+&lt;li&gt;Spintronics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The manuscript detailing this research is currently in preparation and will provide comprehensive insights into the synthesis, characterization, and properties of these novel spinel materials.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding Color Variation with Site Distribution in Inverse Spinel Structure via Neutron Diffraction, Magnetism, and Optical Studies</title>
+      <link>https://example.com/publication/conference-paper/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/</guid>
+      <description>&lt;h2 id=&#34;research-significance&#34;&gt;Research Significance&lt;/h2&gt;
+&lt;p&gt;This publication presents our comprehensive investigation into the relationship between site distribution and color variation in inverse spinel structures. Using a combination of neutron diffraction, magnetic measurements, and optical studies, we have established clear correlations between the atomic arrangements and the resulting optical properties.&lt;/p&gt;
+&lt;h3 id=&#34;methodological-approach&#34;&gt;Methodological Approach:&lt;/h3&gt;
+&lt;p&gt;Our research employed multiple complementary techniques:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Neutron diffraction for precise determination of cation distribution&lt;/li&gt;
+&lt;li&gt;Magnetic measurements to probe electronic configurations and interactions&lt;/li&gt;
+&lt;li&gt;Optical spectroscopy to characterize color properties and underlying electronic transitions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;key-contributions&#34;&gt;Key Contributions:&lt;/h3&gt;
+&lt;p&gt;This work advances the field of solid-state chemistry by:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Providing a detailed understanding of how site distribution affects optical properties in inverse spinels&lt;/li&gt;
+&lt;li&gt;Establishing correlations between magnetic behavior and color properties&lt;/li&gt;
+&lt;li&gt;Developing predictive models for designing materials with specific optical characteristics&lt;/li&gt;
+&lt;li&gt;Offering insights that can be applied to the development of new materials with tailored properties&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The findings from this research have significant implications for the design and development of new functional materials with specific optical properties for various technological applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cr2&#43; in Square Planar Coordination: Durable and Intense Magenta Pigments Inspired by Lunar Mineralogy</title>
+      <link>https://example.com/publication/journal-article/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/</guid>
+      <description>&lt;h2 id=&#34;research-highlights&#34;&gt;Research Highlights&lt;/h2&gt;
+&lt;p&gt;This publication details our work on developing durable and intense magenta pigments based on Cr2+ in square planar coordination. The research was inspired by lunar mineralogy and represents a significant advancement in the field of materials chemistry.&lt;/p&gt;
+&lt;h3 id=&#34;key-findings&#34;&gt;Key Findings:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Successfully synthesized and characterized novel magenta pigments with Cr2+ in square planar coordination&lt;/li&gt;
+&lt;li&gt;Demonstrated exceptional color durability and intensity compared to existing pigments&lt;/li&gt;
+&lt;li&gt;Established clear structure-property relationships through advanced characterization techniques&lt;/li&gt;
+&lt;li&gt;Proposed environmentally friendly alternatives to existing pigments in various applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;impact&#34;&gt;Impact:&lt;/h3&gt;
+&lt;p&gt;This research has been featured in numerous science magazines, highlighting its significant contribution to the field of materials chemistry and potential industrial applications. The developed pigments offer promising alternatives in industries requiring stable, intense coloration with reduced environmental impact.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

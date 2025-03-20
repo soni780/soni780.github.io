@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Journal | Anjali Verma</title>
+    <link>https://example.com/publication_types/article-journal/</link>
+      <atom:link href="https://example.com/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Article-Journal</title>
+      <link>https://example.com/publication_types/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>Understanding Color Variation with Site Distribution in Inverse Spinel Structure via Neutron Diffraction, Magnetism, and Optical Studies</title>
+      <link>https://example.com/publication/conference-paper/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/</guid>
+      <description>&lt;h2 id=&#34;research-significance&#34;&gt;Research Significance&lt;/h2&gt;
+&lt;p&gt;This publication presents our comprehensive investigation into the relationship between site distribution and color variation in inverse spinel structures. Using a combination of neutron diffraction, magnetic measurements, and optical studies, we have established clear correlations between the atomic arrangements and the resulting optical properties.&lt;/p&gt;
+&lt;h3 id=&#34;methodological-approach&#34;&gt;Methodological Approach:&lt;/h3&gt;
+&lt;p&gt;Our research employed multiple complementary techniques:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Neutron diffraction for precise determination of cation distribution&lt;/li&gt;
+&lt;li&gt;Magnetic measurements to probe electronic configurations and interactions&lt;/li&gt;
+&lt;li&gt;Optical spectroscopy to characterize color properties and underlying electronic transitions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;key-contributions&#34;&gt;Key Contributions:&lt;/h3&gt;
+&lt;p&gt;This work advances the field of solid-state chemistry by:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Providing a detailed understanding of how site distribution affects optical properties in inverse spinels&lt;/li&gt;
+&lt;li&gt;Establishing correlations between magnetic behavior and color properties&lt;/li&gt;
+&lt;li&gt;Developing predictive models for designing materials with specific optical characteristics&lt;/li&gt;
+&lt;li&gt;Offering insights that can be applied to the development of new materials with tailored properties&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The findings from this research have significant implications for the design and development of new functional materials with specific optical properties for various technological applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cr2&#43; in Square Planar Coordination: Durable and Intense Magenta Pigments Inspired by Lunar Mineralogy</title>
+      <link>https://example.com/publication/journal-article/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/</guid>
+      <description>&lt;h2 id=&#34;research-highlights&#34;&gt;Research Highlights&lt;/h2&gt;
+&lt;p&gt;This publication details our work on developing durable and intense magenta pigments based on Cr2+ in square planar coordination. The research was inspired by lunar mineralogy and represents a significant advancement in the field of materials chemistry.&lt;/p&gt;
+&lt;h3 id=&#34;key-findings&#34;&gt;Key Findings:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Successfully synthesized and characterized novel magenta pigments with Cr2+ in square planar coordination&lt;/li&gt;
+&lt;li&gt;Demonstrated exceptional color durability and intensity compared to existing pigments&lt;/li&gt;
+&lt;li&gt;Established clear structure-property relationships through advanced characterization techniques&lt;/li&gt;
+&lt;li&gt;Proposed environmentally friendly alternatives to existing pigments in various applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;impact&#34;&gt;Impact:&lt;/h3&gt;
+&lt;p&gt;This research has been featured in numerous science magazines, highlighting its significant contribution to the field of materials chemistry and potential industrial applications. The developed pigments offer promising alternatives in industries requiring stable, intense coloration with reduced environmental impact.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

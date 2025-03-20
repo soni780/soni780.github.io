@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Anjali Verma</title>
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Projects</title>
+      <link>https://example.com/project/</link>
+    </image>
+    
+    <item>
+      <title>Precious Metal-Based Spinels</title>
+      <link>https://example.com/project/scikit/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/scikit/</guid>
+      <description>&lt;p&gt;Investigated magnetic and electronic properties of new precious metal-based normal spinels including LiRhRu1-xIrxO4, LiFeIr1-xRuxO4, and LiCoIr1-xRuxO4.&lt;/p&gt;
+&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;This ongoing research project explores the magnetic and electronic properties of novel precious metal-based normal spinels. These materials have potential applications in advanced electronic devices and energy storage systems due to their unique properties.&lt;/p&gt;
+&lt;h3 id=&#34;research-focus&#34;&gt;Research Focus:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Synthesis and characterization of precious metal-based normal spinels&lt;/li&gt;
+&lt;li&gt;Investigation of structure-property relationships&lt;/li&gt;
+&lt;li&gt;Analysis of magnetic properties and their correlation with electronic structure&lt;/li&gt;
+&lt;li&gt;Exploration of composition-dependent property variations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;materials-studied&#34;&gt;Materials Studied:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;LiRhRu1-xIrxO4&lt;/li&gt;
+&lt;li&gt;LiFeIr1-xRuxO4&lt;/li&gt;
+&lt;li&gt;LiCoIr1-xRuxO4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;current-status&#34;&gt;Current Status:&lt;/h3&gt;
+&lt;p&gt;This research is currently in progress, with a publication being prepared that will detail the synthesis methods, characterization results, and the implications of these findings for materials science and technology development.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Magenta Pigments Research</title>
+      <link>https://example.com/project/pandas/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/pandas/</guid>
+      <description>&lt;p&gt;Developed durable and intense magenta pigments inspired by lunar mineralogy, featuring Cr2+ in square planar coordination.&lt;/p&gt;
+&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;This research project focused on the development of new magenta pigments based on Cr2+ in square planar coordination. The work was inspired by lunar mineralogy and resulted in highly durable and intense pigments with practical applications.&lt;/p&gt;
+&lt;h3 id=&#34;key-achievements&#34;&gt;Key Achievements:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Published as first author in the prestigious journal Chemistry of Materials (2024)&lt;/li&gt;
+&lt;li&gt;Featured in multiple scientific magazines for the innovative approach&lt;/li&gt;
+&lt;li&gt;Developed pigments with exceptional durability and color intensity&lt;/li&gt;
+&lt;li&gt;Utilized advanced characterization techniques to understand the structure-property relationships&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;impact&#34;&gt;Impact:&lt;/h3&gt;
+&lt;p&gt;The development of these pigments offers environmentally friendly alternatives to existing options, with applications in various industries including printing, coatings, and artistic materials.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spinel Structure Research</title>
+      <link>https://example.com/project/pytorch/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/pytorch/</guid>
+      <description>&lt;p&gt;Conducted comprehensive research on color variation in inverse spinel structures using neutron diffraction, magnetism, and optical studies.&lt;/p&gt;
+&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;This research project investigated the relationship between site distribution and color variation in inverse spinel structures. Using neutron diffraction, magnetic measurements, and optical studies, we gained insights into the fundamental structure-property relationships that govern these materials.&lt;/p&gt;
+&lt;h3 id=&#34;research-methods&#34;&gt;Research Methods:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Neutron diffraction for precise structural analysis&lt;/li&gt;
+&lt;li&gt;Magnetic property measurements to understand electronic configurations&lt;/li&gt;
+&lt;li&gt;Optical studies to correlate structure with observed color properties&lt;/li&gt;
+&lt;li&gt;Advanced characterization techniques for comprehensive material analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;key-findings&#34;&gt;Key Findings:&lt;/h3&gt;
+&lt;p&gt;The research provided valuable insights into how atomic arrangement within the spinel structure influences the optical properties, particularly color. This understanding is crucial for designing new materials with tailored properties for various applications.&lt;/p&gt;
+&lt;h3 id=&#34;publication&#34;&gt;Publication:&lt;/h3&gt;
+&lt;p&gt;Published in Progress in Solid State Chemistry (2024), this work contributes to the fundamental understanding of structure-property relationships in complex oxide materials.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
