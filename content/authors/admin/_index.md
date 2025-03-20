@@ -33,13 +33,13 @@ profiles:
   - icon: at-symbol
     url: 'mailto:anjalisoni0108@gmail.com'
     label: E-mail Me
-  - icon: phone
-    url: 'tel:+15417400066'
-    label: +1 541-740-0066
+  # - icon: phone
+  #   url: 'tel:+15417400066'
+  #   label: +1 541-740-0066
   - icon: brands/linkedin
     url: http://linkedin.com/in/anjali-materialchemist
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.co.in/citations?hl=en&user=0X1hJ48AAAAJ
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
