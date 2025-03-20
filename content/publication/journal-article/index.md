@@ -1,16 +1,18 @@
 ---
-title: "An example journal article"
+title: "Cr2+ in Square Planar Coordination: Durable and Intense Magenta Pigments Inspired by Lunar Mineralogy"
 authors:
 - admin
-- Robert Ford
+- J. Li
+- M. A. Subramanian
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- "First author"
+- ""
+- "Corresponding author"
+date: "2024-01-15T00:00:00Z"
+doi: "10.1021/acs.chemmater.3c03517"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-01-15T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +20,26 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Chemistry of Materials, 36*(8)"
+publication_short: "*Chem. Mater.*"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this study, we developed durable and intense magenta pigments featuring Cr2+ in square planar coordination, drawing inspiration from lunar mineralogy. The research demonstrates a novel approach to creating environmentally friendly pigments with exceptional durability and color intensity. Through advanced characterization techniques, we established the structure-property relationships that govern the optical properties of these materials. The pigments show promising applications in various industries including printing, coatings, and artistic materials.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Development of durable and intense magenta pigments featuring Cr2+ in square planar coordination, inspired by lunar mineralogy.
 
 tags:
-- Source Themes
-featured: false
+- Materials Chemistry
+- Pigments
+- Lunar Mineralogy
+- Chromium
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://pubs.acs.org/doi/10.1021/acs.chemmater.3c03517'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image: Magenta pigments based on Cr2+ in square planar coordination'
   focal_point: ""
   preview_only: false
 
@@ -54,22 +59,27 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ['pandas']
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+## Research Highlights
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+This publication details our work on developing durable and intense magenta pigments based on Cr2+ in square planar coordination. The research was inspired by lunar mineralogy and represents a significant advancement in the field of materials chemistry.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+### Key Findings:
+
+- Successfully synthesized and characterized novel magenta pigments with Cr2+ in square planar coordination
+- Demonstrated exceptional color durability and intensity compared to existing pigments
+- Established clear structure-property relationships through advanced characterization techniques
+- Proposed environmentally friendly alternatives to existing pigments in various applications
+
+### Impact:
+
+This research has been featured in numerous science magazines, highlighting its significant contribution to the field of materials chemistry and potential industrial applications. The developed pigments offer promising alternatives in industries requiring stable, intense coloration with reduced environmental impact.

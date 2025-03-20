@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Anjali Verma
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Anjali Verma
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Anjali
+last_name: Verma
 
 # Status emoji
 status:
@@ -20,167 +20,156 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. in Materials Chemistry
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Oregon State University
+    url: https://oregonstate.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:anjalisoni0108@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+  - icon: phone
+    url: 'tel:+15417400066'
+    label: +1 541-740-0066
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: http://linkedin.com/in/anjali-materialchemist
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Semiconductor Materials
+  - Advanced Characterization Techniques
+  - Process Optimization
+  - Data Science
+  - Design of Experiments (DOE)
+  - Materials Chemistry
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. in Materials Chemistry
+    institution: Oregon State University
+    date_start: 2021-09-01
+    date_end: 2025-01-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 4.00/4.00
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Awarded:
+      - Milton Harris Fellowship (2023)
+      - Scholarly Presentation Award (2024)
+  - area: Bachelor and Master of Science in Chemistry
+    institution: Indian Institute of Science Education and Research Kolkata
+    date_start: 2016-08-01
+    date_end: 2021-08-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 8.85/10.00
+      
+      Awarded merit-cum scholarship (2018-2021) based on grades.
+
+work:
+  - position: Graduate Researcher
+    company_name: Oregon State University
+    company_url: 'https://oregonstate.edu/'
+    company_logo: ''
+    date_start: 2021-09-01
+    date_end: 2025-01-01
+    summary: |
+      - Led 9+ R&D projects on materials chemistry and semiconductor materials
+      - Published 4 high-impact papers (2 as first author), with 5+ publications in progress
+      - Mentored 7 students (5 undergraduate, 2 master's) and designed their experiments
+      - Appointed as Laboratory Safety Manager, implemented 4+ regulatory safety protocols
+      - Cultivated academic collaborations nationwide, contributing to collaborative publications
+  - position: Graduate Teaching Assistant
+    company_name: Oregon State University
+    company_url: 'https://oregonstate.edu/'
+    company_logo: ''
+    date_start: 2021-09-01
+    date_end: 2025-01-01
+    summary: |
+      - Engaged undergraduate students in coursework and complex assignments
+      - Independently managed lab classes of 48 undergraduate students
+      - Emphasized hands-on learning and safety
+  - position: Master Researcher
+    company_name: Indian Institute of Science Education and Research Kolkata
+    company_url: 'https://www.iiserkol.ac.in/'
+    company_logo: ''
+    date_start: 2020-08-01
+    date_end: 2021-08-01
+    summary: |
+      - Synthesized fluorescent chromophores and quantum dots for bioimaging, white light emission, and optoelectronics
+      - Characterized materials using advanced techniques including DFT, Spectroscopy, and Microscopy
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: Materials Characterization
+        description: 'XRD, ZEM, TGA, PPMS, Spectroscopy'
+        percent: 95
+        icon: flask
+      - name: Computational Tools
+        description: 'GSAS/EXPGUI, VESTA, Python, MATLAB'
+        percent: 85
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Data Analysis
+        description: 'DOE, Root Cause Analysis, Statistical Analysis'
+        percent: 90
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+  - name: Professional Skills
+    color: '#0076de'
+    color_border: '#0076de'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - name: Leadership
+        description: 'Project Management, Team Leadership'
+        percent: 90
+        icon: users
+      - name: Communication
+        description: 'Scientific Writing, Presentations'
+        percent: 95
+        icon: document-text
+      - name: Problem-Solving
+        description: 'Critical Thinking, Analytical Strategies'
+        percent: 95
+        icon: light-bulb
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Hindi
+    percent: 95
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Milton Harris Fellowship
+    date: '2023-01-01'
+    awarder: Oregon State University
+    icon: award
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Awarded for outstanding performance in research.
+  - title: Scholarly Presentation Award
+    date: '2024-01-01'
+    awarder: Oregon State University
+    icon: presentation
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Recognized for excellence in academic presentations.
+  - title: Publication Highlight
+    date: '2024-01-01'
+    awarder: Multiple Science Magazines
+    icon: newspaper
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      My publication "Cr2+ in Square Planar Coordination: Durable and Intense Magenta Pigments Inspired by Lunar Mineralogy" was featured in numerous scientific magazines.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Results-driven Ph.D. in Materials Chemistry with extensive experience in semiconductor materials, advanced characterization techniques, and process optimization. My research focuses on designing and developing new materials for semiconductor applications, with special emphasis on transition metal oxides and their electronic and magnetic properties.
+
+I have led multiple R&D projects resulting in 4 high-impact publications, with several more in progress. My expertise includes implementing Design of Experiments (DOE) frameworks, analyzing complex data, and developing sustainable solutions for continuous improvement.
+
+As a Laboratory Safety Manager, I've enhanced operational efficiency while fostering a safety-first culture. I'm an accomplished communicator with strong written and verbal skills, demonstrated through publications, presentations, and successful collaboration with diverse, multidisciplinary teams.
