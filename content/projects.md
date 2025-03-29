@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Research Projects'
 date: 2024-05-19
 type: landing
 
@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Research Projects
+      text: My research focuses on the development and characterization of novel materials for various applications, with an emphasis on understanding structure-property relationships. Here are some of my key research projects.
       filters:
         folders:
           - project

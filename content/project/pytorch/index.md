@@ -1,33 +1,36 @@
 ---
-title: Spinel Structure Research
-date: 2023-12-10
+title: Precious Metal-Based Spinels
+date: 2024-02-15
 external_link: ""
 tags:
   - Materials Chemistry
-  - Spinel Structure
-  - Neutron Diffraction
-  - Magnetism
+  - Spinels
+  - Magnetic Properties
+  - Electronic Properties
+  - Precious Metals
 ---
 
-Conducted comprehensive research on color variation in inverse spinel structures using neutron diffraction, magnetism, and optical studies.
+Investigated magnetic and electronic properties of new precious metal-based normal spinels including LiRhRu1-xIrxO4, LiFeIr1-xRuxO4, and LiCoIr1-xRuxO4.
 
 <!--more-->
 
 ## Project Overview
 
-This research project investigated the relationship between site distribution and color variation in inverse spinel structures. Using neutron diffraction, magnetic measurements, and optical studies, we gained insights into the fundamental structure-property relationships that govern these materials.
+This ongoing research project explores the magnetic and electronic properties of novel precious metal-based normal spinels. These materials have potential applications in advanced electronic devices and energy storage systems due to their unique properties.
 
-### Research Methods:
+### Research Focus:
 
-- Neutron diffraction for precise structural analysis
-- Magnetic property measurements to understand electronic configurations
-- Optical studies to correlate structure with observed color properties
-- Advanced characterization techniques for comprehensive material analysis
+- Synthesis and characterization of precious metal-based normal spinels
+- Investigation of structure-property relationships
+- Analysis of magnetic properties and their correlation with electronic structure
+- Exploration of composition-dependent property variations
 
-### Key Findings:
+### Materials Studied:
 
-The research provided valuable insights into how atomic arrangement within the spinel structure influences the optical properties, particularly color. This understanding is crucial for designing new materials with tailored properties for various applications.
+- LiRhRu1-xIrxO4
+- LiFeIr1-xRuxO4
+- LiCoIr1-xRuxO4
 
-### Publication:
+### Current Status:
 
-Published in Progress in Solid State Chemistry (2024), this work contributes to the fundamental understanding of structure-property relationships in complex oxide materials.
+This research is currently in progress, with a publication being prepared that will detail the synthesis methods, characterization results, and the implications of these findings for materials science and technology development.

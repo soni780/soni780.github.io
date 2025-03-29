@@ -6,6 +6,8 @@ tags:
   - Materials Chemistry
   - Pigments
   - Lunar Mineralogy
+  - Non-toxic Materials
+  - Color Science
 ---
 
 Developed durable and intense magenta pigments inspired by lunar mineralogy, featuring Cr2+ in square planar coordination.
@@ -25,4 +27,4 @@ This research project focused on the development of new magenta pigments based o
 
 ### Impact:
 
-The development of these pigments offers environmentally friendly alternatives to existing options, with applications in various industries including printing, coatings, and artistic materials.
+The development of these pigments offers environmentally friendly alternatives to existing options, with applications in various industries including printing, coatings, and artistic materials. The research contributes to the growing field of sustainable materials by creating non-toxic pigments with enhanced performance characteristics.

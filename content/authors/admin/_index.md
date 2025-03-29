@@ -44,18 +44,19 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Semiconductor Materials
+  - Materials Chemistry
+  - Semiconductors & Dielectrics
+  - Solid-State Materials
   - Advanced Characterization Techniques
   - Process Optimization
-  - Data Science
   - Design of Experiments (DOE)
-  - Materials Chemistry
+  - Structure-Property Relationships
 
 education:
   - area: Ph.D. in Materials Chemistry
     institution: Oregon State University
     date_start: 2021-09-01
-    date_end: 2025-01-01
+    date_end: 2025-05-01
     summary: |
       GPA: 4.00/4.00
       
@@ -69,7 +70,7 @@ education:
     summary: |
       GPA: 8.85/10.00
       
-      Awarded merit-cum scholarship (2018-2021) based on grades.
+      Awarded certifications for teaching courses on Fluorescence Spectroscopy, Quantum Chemistry, Fundamentals of Spectroscopy, and General Physical Chemistry (2020-2021)
 
 work:
   - position: Graduate Researcher
@@ -77,32 +78,26 @@ work:
     company_url: 'https://oregonstate.edu/'
     company_logo: ''
     date_start: 2021-09-01
-    date_end: 2025-01-01
+    date_end: 2025-05-01
     summary: |
-      - Led 9+ R&D projects on materials chemistry and semiconductor materials
-      - Published 4 high-impact papers (2 as first author), with 5+ publications in progress
-      - Mentored 7 students (5 undergraduate, 2 master's) and designed their experiments
-      - Appointed as Laboratory Safety Manager, implemented 4+ regulatory safety protocols
-      - Cultivated academic collaborations nationwide, contributing to collaborative publications
-  - position: Graduate Teaching Assistant
-    company_name: Oregon State University
-    company_url: 'https://oregonstate.edu/'
-    company_logo: ''
-    date_start: 2021-09-01
-    date_end: 2025-01-01
-    summary: |
-      - Engaged undergraduate students in coursework and complex assignments
-      - Independently managed lab classes of 48 undergraduate students
-      - Emphasized hands-on learning and safety
-  - position: Master Researcher
+      - Led 10 successful R&D projects on synthesis and characterization of novel solid-state materials (pigments, semiconductors, dielectrics, thermoelectrics)
+      - Designed projects focused on developing non-toxic, durable pigments using advanced optical characterization techniques
+      - Authored 5 high-impact publications (2 as first author), with 4+ additional publications in progress
+      - Solved 15+ crystal structures of solid solutions using XRD, synchrotron, and neutron diffraction
+      - Utilized advanced characterization techniques including four-probe electronic measurements, optical spectroscopy, microscopy, Mössbauer spectroscopy, TGA, and LCR meter
+      - Mentored 7 students (5 undergraduate, 2 master's) in experimental design and material development
+      - Appointed as Laboratory Safety Manager, implemented 4+ regulatory safety protocols eliminating safety incidents
+  - position: Undergraduate and Master Researcher
     company_name: Indian Institute of Science Education and Research Kolkata
     company_url: 'https://www.iiserkol.ac.in/'
     company_logo: ''
-    date_start: 2020-08-01
+    date_start: 2016-08-01
     date_end: 2021-08-01
     summary: |
-      - Synthesized fluorescent chromophores and quantum dots for bioimaging, white light emission, and optoelectronics
-      - Characterized materials using advanced techniques including DFT, Spectroscopy, and Microscopy
+      - Completed courses on physical techniques for structural elucidation, enhancing expertise in chemical structure determination
+      - Completed summer internship on synthesis of fused bithiophene-based conjugated systems for optoelectronic devices
+      - Synthesized fluorescent chromophores and quantum dots for bioimaging and optoelectronics applications
+      - Applied experimental and computational techniques including DFT, Fluorescence Spectroscopy, and Electron Microscopy
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -110,31 +105,35 @@ skills:
   - name: Technical Skills
     items:
       - name: Materials Characterization
-        description: 'XRD, ZEM, TGA, PPMS, Spectroscopy'
+        description: 'XRD, UV-Vis-NIR, ZEM, TGA, MPMS, XPS, SEM, TEM'
         percent: 95
         icon: flask
       - name: Computational Tools
-        description: 'GSAS/EXPGUI, VESTA, Python, MATLAB'
-        percent: 85
+        description: 'GSAS/EXPGUI, GSAS-II, VESTA, Python, MATLAB, Origin'
+        percent: 90
         icon: code-bracket
       - name: Data Analysis
-        description: 'DOE, Root Cause Analysis, Statistical Analysis'
+        description: 'DOE, Structure Refinements, Statistical Analysis'
         percent: 90
         icon: chart-bar
+      - name: Materials Development
+        description: 'Solid-State Synthesis, Organic Synthesis, Thin Films'
+        percent: 95
+        icon: beaker
   - name: Professional Skills
     color: '#0076de'
     color_border: '#0076de'
     items:
       - name: Leadership
-        description: 'Project Management, Team Leadership'
-        percent: 90
+        description: 'Project Management, Team Leadership, Lab Safety'
+        percent: 95
         icon: users
       - name: Communication
-        description: 'Scientific Writing, Presentations'
+        description: 'Scientific Writing, Presentations, Collaboration'
         percent: 95
         icon: document-text
       - name: Problem-Solving
-        description: 'Critical Thinking, Analytical Strategies'
+        description: 'Root Cause Analysis, Process Optimization, Continuous Improvement'
         percent: 95
         icon: light-bulb
 
@@ -151,7 +150,7 @@ awards:
     awarder: Oregon State University
     icon: award
     summary: |
-      Awarded for outstanding performance in research.
+      Awarded for excellence in research in materials chemistry.
   - title: Scholarly Presentation Award
     date: '2024-01-01'
     awarder: Oregon State University
@@ -163,13 +162,25 @@ awards:
     awarder: Multiple Science Magazines
     icon: newspaper
     summary: |
-      My publication "Cr2+ in Square Planar Coordination: Durable and Intense Magenta Pigments Inspired by Lunar Mineralogy" was featured in numerous scientific magazines.
+      My publication "Cr2+ in Square Planar Coordination: Durable and Intense Magenta Pigments Inspired by Lunar Mineralogy" was featured in numerous scientific magazines, highlighting its significant impact.
+  - title: Featured in Beaver's Digest
+    date: '2024-01-01'
+    awarder: Beaver's Digest
+    icon: newspaper
+    summary: |
+      Featured in the magazine "At the End of the Rainbow: The Neverending Frontier of Color", reflecting passion for scientific inquiry.
+  - title: Competitive Exam Qualifications
+    date: '2021-01-01'
+    awarder: Various Indian Academic Institutions
+    icon: academic-cap
+    summary: |
+      Qualified for several of India's toughest competitive exams including IIT-JEE MAINS (2016), IIT-JEE ADVANCED (2016), NET (2021), and GATE (2021).
 ---
 
 ## About Me
 
-Results-driven Ph.D. in Materials Chemistry with extensive experience in semiconductor materials, advanced characterization techniques, and process optimization. My research focuses on designing and developing new materials for semiconductor applications, with special emphasis on transition metal oxides and their electronic and magnetic properties.
+Ambitious and highly skilled Ph.D. candidate in Materials Chemistry with a 4.0 GPA and over five years of experience developing and optimizing materials for real-world applications. Experienced in designing and tailoring solid-state materials—including pigments, semiconductors, dielectrics, and thermoelectrics—as well as fluorophores and quantum dots, with a strong focus on structure–property relationships and sustainable innovation.
 
-I have led multiple R&D projects resulting in 4 high-impact publications, with several more in progress. My expertise includes implementing Design of Experiments (DOE) frameworks, analyzing complex data, and developing sustainable solutions for continuous improvement.
+I have led 10 successful R&D projects resulting in 5 high-impact publications, with several more in progress. My research contributions include developing energy-saving coatings, electronic devices, and optoelectronic applications. I'm proficient in planning and conducting both computational and experimental studies using Design of Experiments (DOE) frameworks.
 
-As a Laboratory Safety Manager, I've enhanced operational efficiency while fostering a safety-first culture. I'm an accomplished communicator with strong written and verbal skills, demonstrated through publications, presentations, and successful collaboration with diverse, multidisciplinary teams.
+As a Laboratory Safety Manager, I've enhanced operational protocols and cultivated a safety-first culture. I'm an accomplished communicator with strong scientific writing and presentation skills, demonstrated through publications, presentations, and successful mentorship of undergraduate and graduate students in experimental design and material development.

@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/AnjaliVerma.pdf
     design:
       css_class: dark
       background:
@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research focuses on designing and developing novel solid-state materials with tailored properties for real-world applications. I specialize in synthesizing and characterizing pigments, semiconductors, dielectrics, and thermoelectrics with a strong emphasis on understanding structure-property relationships.
         
-        Please reach out to collaborate 😃
+        I apply a range of advanced characterization techniques including X-ray diffraction, spectroscopy, and microscopy to understand how material structure influences optical, electronic, and magnetic properties. My work aims to develop sustainable materials for energy-saving coatings, electronic devices, and optoelectronic applications.
+        
+        Please reach out if you're interested in collaborating on materials chemistry research! 😃
     design:
       columns: '1'
   - block: collection
