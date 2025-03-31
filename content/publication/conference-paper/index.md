@@ -17,7 +17,7 @@ author_notes:
   - ''
   - 'Corresponding author'
 
-date: '2024-02-15T00:00:00Z'
+date: '2024-06-01T00:00:00Z'
 doi: '10.1016/j.progsolidstchem.2024.100455'
 
 # Schedule page publish date (NOT publication's date).
@@ -29,13 +29,13 @@ publishDate: '2024-02-15T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Progress in Solid State Chemistry*
+publication: In *Progress in Solid State Chemistry, 74*, 100455
 publication_short: In *Prog. Solid State Chem.*
 
-abstract: This study investigates the relationship between site distribution and color variation in inverse spinel structures using comprehensive analytical approaches including neutron diffraction, magnetic measurements, and optical studies. We provide detailed insights into the structural factors that influence the optical properties of these materials, particularly focusing on the correlation between cation distribution and observed color. Our findings contribute to the fundamental understanding of structure-property relationships in complex oxide materials and offer pathways for designing new materials with tailored optical properties.
+abstract: Chromophores at different coordinations can give rise to different colors; usually, chromophores at non-centrosymmetric coordinations are preferred for intense pigments. Different solid solutions M2-xCoxM'O4 (M = Mg/Zn, and M' = Ti/Sn) with inverse spinel structure were synthesized with the goal of understanding color variation with site distribution, as the chromophore Co2+ in these solid solutions can occupy either the tetrahedral or octahedral sites or both depending on the composition. Another goal was to develop environmentally friendly and cheap blue pigments by reducing the carcinogenic cobalt to obtain a similar color to that of commercially available cobalt blue. For Mg2-xCoxTiO4 series, turquoise blue hues were observed for low cobalt content, and different shades of blue were observed for Mg2-xCoxSnO4 series with a color similar to cobalt blue. Our findings contribute to the fundamental understanding of structure-property relationships in complex oxide materials and offer pathways for designing new environmentally friendly pigments.
 
 # Summary. An optional shortened abstract.
-summary: Comprehensive analysis of color variation in inverse spinel structures correlating site distribution with optical properties through neutron diffraction and magnetic studies.
+summary: Investigation of color variation with site distribution in inverse spinel structure via neutron diffraction, magnetism, and optical studies, with the goal of developing environmentally friendly blue pigments similar to commercial cobalt blue.
 
 tags:
   - Spinel Structure
@@ -74,7 +74,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - pytorch
+  - inverse-spinel
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -87,6 +87,10 @@ slides: ""
 ## Research Significance
 
 This publication presents our comprehensive investigation into the relationship between site distribution and color variation in inverse spinel structures. Using a combination of neutron diffraction, magnetic measurements, and optical studies, we have established clear correlations between the atomic arrangements and the resulting optical properties.
+
+### Journal Recognition
+
+Our paper on understanding site occupancies versus color relationships appeared on the front cover of [Progress in Solid State Chemistry](https://www.sciencedirect.com/journal/progress-in-solid-state-chemistry) Volume 74, June 2024. The paper has already received 2 citations, demonstrating its immediate impact in the field.
 
 ### Methodological Approach:
 
@@ -102,7 +106,7 @@ This work advances the field of solid-state chemistry by:
 
 1. Providing a detailed understanding of how site distribution affects optical properties in inverse spinels
 2. Establishing correlations between magnetic behavior and color properties
-3. Developing predictive models for designing materials with specific optical characteristics
+3. Developing environmentally friendly blue pigments by reducing the amount of carcinogenic cobalt while maintaining similar colors to commercial pigments
 4. Offering insights that can be applied to the development of new materials with tailored properties
 
-The findings from this research have significant implications for the design and development of new functional materials with specific optical properties for various technological applications.
+The findings from this research have significant implications for the design and development of new functional materials with specific optical properties for various technological applications, particularly in environmentally friendly pigments for industrial use.

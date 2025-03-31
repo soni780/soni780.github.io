@@ -31,13 +31,34 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: research
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research focuses on designing and developing novel solid-state materials with tailored properties for real-world applications. I specialize in synthesizing and characterizing pigments, semiconductors, dielectrics, and thermoelectrics with a strong emphasis on understanding structure-property relationships.
+        My research focuses on designing and developing novel solid-state materials with tailored properties for real-world applications. I specialize in the synthesis and characterization of functional materials across multiple categories:
         
-        I apply a range of advanced characterization techniques including X-ray diffraction, spectroscopy, and microscopy to understand how material structure influences optical, electronic, and magnetic properties. My work aims to develop sustainable materials for energy-saving coatings, electronic devices, and optoelectronic applications.
+        **Materials Design & Synthesis**
+        - Environmentally friendly pigments inspired by lunar mineralogy, including Cr²⁺-based magenta pigments featured on journal covers
+        - Inverse spinel structures with tunable optical properties (M₂₋ₓCoₓM'O₄) to create sustainable alternatives to carcinogenic cobalt blue pigments
+        - Transition metal oxide semiconductors for electronic devices and sensors
+        - Precious metal-based normal spinel systems for magnetic and electronic applications
+        - Fluorescent chromophores and quantum dots for bioimaging and optoelectronic applications
+        
+        **Advanced Characterization**
+        - Structure solution and refinement using XRD, synchrotron, and neutron diffraction data
+        - Determination of cation distribution and site occupancy in complex oxide materials
+        - Optical property measurements correlated with structural features
+        - Magnetic characterization to probe electronic configurations and interactions
+        - Surface and compositional analysis using electron microscopy, spectroscopy, and other techniques
+        
+        **Applications**
+        - Energy-efficient coatings and sustainable pigments for industrial use
+        - Electronic and optoelectronic materials for energy conversion technologies
+        - Magnetic materials with potential in spintronics and data storage
+        - Materials for bioimaging, sensing, and other technological applications
+        
+        With 10 successful R&D projects and 5 high-impact publications (2 as first author), my work bridges fundamental structure-property relationships with practical materials development for sustainable solutions.
         
         Please reach out if you're interested in collaborating on materials chemistry research! 😃
     design:
@@ -122,4 +143,44 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
+  # - block: skills-spotlight
+  #   id: skills
+  #   content:
+  #     title: Technical Expertise
+  #     subtitle: My Skills
+  #     text: Specialized skills developed through years of research and development in materials chemistry.
+  #     skills:
+  #       - category: Materials Characterization
+  #         items:
+  #           - name: XRD
+  #           - name: UV-Vis-NIR
+  #           - name: ZEM
+  #           - name: TGA
+  #           - name: MPMS
+  #           - name: XPS
+  #           - name: SEM
+  #           - name: TEM
+  #       - category: Computational Tools
+  #         items:
+  #           - name: GSAS/EXPGUI
+  #           - name: GSAS-II
+  #           - name: VESTA
+  #           - name: Python
+  #           - name: MATLAB
+  #           - name: Origin
+  #       - category: Data Analysis
+  #         items:
+  #           - name: DOE
+  #           - name: Structure Refinements
+  #           - name: Statistical Analysis
+  #           - name: Process Optimization
+  #       - category: Materials Development
+  #         items:
+  #           - name: Solid-State Synthesis
+  #           - name: Organic Synthesis
+  #           - name: Thin Films
+  #           - name: Structure-Property Development
+  #   design:
+  #     columns: "1"
+  #     skill_color: "#1565C0"
 ---

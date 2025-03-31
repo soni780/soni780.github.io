@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. in Materials Chemistry
+role: Ph.D. Candidate in Materials Chemistry
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -141,7 +141,7 @@ languages:
   - name: English
     percent: 100
   - name: Hindi
-    percent: 95
+    percent: 100
 
 # Awards
 awards:
@@ -179,8 +179,12 @@ awards:
 
 ## About Me
 
-Ambitious and highly skilled Ph.D. candidate in Materials Chemistry with a 4.0 GPA and over five years of experience developing and optimizing materials for real-world applications. Experienced in designing and tailoring solid-state materials—including pigments, semiconductors, dielectrics, and thermoelectrics—as well as fluorophores and quantum dots, with a strong focus on structure–property relationships and sustainable innovation.
+I am a fourth-year Ph.D. candidate in Materials Chemistry at Oregon State University, specializing in the design and development of solid-state materials. My research focuses on creating innovative pigments, semiconductors, dielectrics, and thermoelectrics driven by a passion for sustainable solutions and real-world applications.
 
-I have led 10 successful R&D projects resulting in 5 high-impact publications, with several more in progress. My research contributions include developing energy-saving coatings, electronic devices, and optoelectronic applications. I'm proficient in planning and conducting both computational and experimental studies using Design of Experiments (DOE) frameworks.
+Throughout my doctoral research, I have led 10 successful projects, authored five high-impact publications (two as first author), and developed novel materials with tailored optical, electronic, and magnetic properties. My work has been recognized in leading journals and featured in several scientific magazines.
 
-As a Laboratory Safety Manager, I've enhanced operational protocols and cultivated a safety-first culture. I'm an accomplished communicator with strong scientific writing and presentation skills, demonstrated through publications, presentations, and successful mentorship of undergraduate and graduate students in experimental design and material development.
+Prior to my Ph.D., I completed my BS-MS at IISER Kolkata, where I conducted research on fused bithiophene-based conjugated systems, quantum dots, and fluorophores for applications in optoelectronics and bioimaging.
+
+I bring strong communication and leadership skills to my work, demonstrated through student mentoring, laboratory safety management, and cross-functional collaboration. I've also qualified some of the world's most competitive exams—including IIT-JEE Advanced (2016) and GATE (2021)—reflecting my commitment to continuous learning and technical excellence.
+
+I'm always eager to connect with fellow researchers, explore collaborative opportunities, and apply materials science to solve real-world challenges.

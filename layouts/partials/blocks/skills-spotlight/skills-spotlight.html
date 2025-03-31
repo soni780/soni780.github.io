@@ -1,0 +1,57 @@
+{{/* Skills Spotlight Block */}}
+
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{ $columns := $block.design.columns | default "1" }}
+
+<div class="col-12 {{if eq $columns "2"}}col-lg-6{{end}}">
+  <div class="section-subheading">{{ $block.content.subtitle | markdownify | emojify }}</div>
+  <h2 class="mb-4">{{ $block.content.title | markdownify | emojify }}</h2>
+
+  {{ with $block.content.text }}
+  <div class="mb-3">{{ . | markdownify | emojify }}</div>
+  {{ end }}
+
+  {{ if $block.content.skills }}
+  <div class="skills-spotlight">
+    {{ range $block.content.skills }}
+      <div class="skill-category mb-4">
+        <h3 class="skill-category-title">{{ .category }}</h3>
+        <div class="skill-items">
+          {{ range .items }}
+            <div class="skill-item">
+              <span class="badge skill-badge" style="background-color: {{ $block.design.skill_color | default "#1565C0" }};">
+                {{ .name }}
+              </span>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+  </div>
+  {{ end }}
+</div>
+
+<style>
+.skills-spotlight .skill-category-title {
+  font-size: 1.2rem;
+  margin-bottom: 0.75rem;
+  color: #333;
+  font-weight: 600;
+}
+
+.skills-spotlight .skill-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.skills-spotlight .skill-badge {
+  font-size: 0.9rem;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  color: white;
+  font-weight: 500;
+}
+</style>

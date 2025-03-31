@@ -1,6 +1,6 @@
 ---
 title: Inverse Spinel Structure Research
-date: 2024-02-15
+date: 2024-06-01
 external_link: ""
 tags:
   - Materials Chemistry
@@ -8,15 +8,23 @@ tags:
   - Neutron Diffraction
   - Magnetism
   - Optical Properties
+  - Pigments
 ---
 
-Conducted comprehensive research on color variation in inverse spinel structures using neutron diffraction, magnetism, and optical studies.
+Understanding color variation with site distribution in inverse spinel structure via neutron diffraction, magnetism, and optical studies.
 
 <!--more-->
 
 ## Project Overview
 
-This research project investigated the relationship between site distribution and color variation in inverse spinel structures. Using neutron diffraction, magnetic measurements, and optical studies, we gained insights into the fundamental structure-property relationships that govern these materials.
+This research project investigated the relationship between site distribution and color variation in inverse spinel structures. Different solid solutions M2-xCoxM'O4 (M = Mg/Zn, and M' = Ti/Sn) with inverse spinel structure were synthesized with the goal of understanding color variation with site distribution, as the chromophore Co2+ in these solid solutions can occupy either the tetrahedral or octahedral sites or both depending on the composition.
+
+### Research Goals:
+
+- Establish correlations between cation distribution and optical properties in inverse spinels
+- Develop environmentally friendly and cost-effective blue pigments by reducing the amount of carcinogenic cobalt
+- Create alternatives to commercially available cobalt blue pigments with similar colors but reduced health risks
+- Understand fundamental structure-property relationships in complex oxide materials
 
 ### Research Methods:
 
@@ -28,8 +36,11 @@ This research project investigated the relationship between site distribution an
 
 ### Key Findings:
 
-The research provided valuable insights into how atomic arrangement within the spinel structure influences the optical properties, particularly color. By successfully solving over 15 crystal structures of solid solutions using XRD, synchrotron, and neutron diffraction data, we were able to determine atomic occupancies and effectively correlate them with material properties.
+- For Mg2-xCoxTiO4 series, turquoise blue hues were observed for low cobalt content
+- Different shades of blue were observed for Mg2-xCoxSnO4 series with a color similar to commercial cobalt blue
+- Successfully developed pigments with reduced cobalt content while maintaining desirable color properties
+- Established clear structure-property relationships linking site distribution to optical characteristics
 
 ### Publication:
 
-Published in Progress in Solid State Chemistry (2024), this work contributes to the fundamental understanding of structure-property relationships in complex oxide materials. The methodologies and findings presented offer valuable tools for materials scientists working on the development of materials with tailored optical properties.
+Published in Progress in Solid State Chemistry (Volume 74, June 2024), this work was featured on the journal's front cover and has already received 2 citations. The paper contributes to the fundamental understanding of structure-property relationships in complex oxide materials and offers practical approaches for developing environmentally friendly pigments for industrial applications.
